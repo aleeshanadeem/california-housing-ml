@@ -27,4 +27,4 @@ To compare different regression models and evaluate their performance using stan
 The best performing model was selected based on evaluation metrics comparison.
 
 ## 👩‍💻 Author
-Alesha Nadeem
+Aleesha Nadeem
