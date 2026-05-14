@@ -18,7 +18,7 @@ To compare different regression models and evaluate their performance using stan
 - Decision Tree Regressor
 - Random Forest Regressor
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R² Score
