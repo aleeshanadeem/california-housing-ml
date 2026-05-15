@@ -1,6 +1,6 @@
 # California Housing ML Project
 
-## 📌 Project Overview
+##  Project Overview
 This project builds classical Machine Learning models to predict California housing prices using structured tabular data.
 
 ## 🎯 Objective
