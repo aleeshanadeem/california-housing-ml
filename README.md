@@ -3,6 +3,7 @@
 ##  Project Overview
 This project builds classical Machine Learning models to predict California housing prices using structured tabular data.
 
+
 ##  Objective
 To compare different regression models and evaluate their performance using standard evaluation metrics.
 
