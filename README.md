@@ -7,7 +7,6 @@ This project builds classical Machine Learning models to predict California hous
 ##  Objective
 To compare different regression models and evaluate their performance using standard evaluation metrics.
 
-
 ##  Technologies Used
 - Python
 - NumPy
