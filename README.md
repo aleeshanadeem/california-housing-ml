@@ -14,7 +14,6 @@ To compare different regression models and evaluate their performance using stan
 - Scikit-learn
 - Matplotlib / Seaborn
 
-
 ## Models Applied
 - Linear Regression
 - Decision Tree Regressor
